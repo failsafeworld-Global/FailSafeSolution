@@ -1,2 +1,2 @@
-# FailSaleSolution
+# FailSafeSolution
 FailSafe develops a controlled-access pharmaceutical safety cap designed to reduce misuse, diversion, accidental overdose, and pediatric access to prescription medications. The discreet locking cap unlocks only at scheduled dosing times and automatically re-locks after use, preventing early, duplicate, or unauthorized access—without apps, screens, or required behavior changes. This repository hosts the public-facing website for the FailSafe venture.
